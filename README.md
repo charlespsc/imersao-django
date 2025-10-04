@@ -41,6 +41,12 @@ Este repositório contém um site institucional desenvolvido com Django, incluin
 - `page_app/` — Aplicação principal com views, templates e arquivos estáticos
 - `db.sqlite3` — Banco de dados SQLite padrão
 
+
+## 📝 Atividade Prática
+
+Siga os passos do documento `atividade_pratica.pdf` para praticar.
+
+
 ## ✉️ Contato
 - Desenvolvedor: [charlespsc](https://github.com/charlespsc)
 
